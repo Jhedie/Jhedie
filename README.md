@@ -1,13 +1,14 @@
-## Hi there, I'm [Jed](https://www.linkedin.com/in/jedidiah-a-371abb166/).
-
-
+## 👋 Hi there
+- 👨‍🎓 Computer science student
+- 👨🏽‍💻 I’m currently working on Local Events App
+- 🌱 I'm an avid learner, eager to dive into any topic that sparks my curiosity."
+- 🧐 Interested in Software Engineering and architecture, Cloud Native development, InfoSec
+- ⚡ Fun fact: The first computer virus was called The Creeper 
 
 <!--**Jhedie/Jhedie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
