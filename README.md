@@ -1,7 +1,7 @@
 ## 👋 Hi there
 - 👨‍🎓 Computer Science student at the University of Leicester
 - 👨🏽‍💻 I’m currently working on Local Events App
-- 🌱 I'm an avid learner, eager to dive into any topic that sparks my curiosity."
+- 🌱 I'm an avid learner, eager to dive into any topic that sparks my curiosity.
 - 🧐 Interested in Software Engineering and architecture, Cloud Native development, InfoSec
 - ⚡ Fun fact: The first computer virus was called The Creeper 
 
