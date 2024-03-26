@@ -1,6 +1,6 @@
 ## 👋 Hi there
-- 👨‍🎓 Computer Science student at the University of Leicester
-- 👨🏽‍💻 I’m currently working on Local Events App
+- 👨‍🎓 Final Year Computer Science student at the University of Leicester
+- 👨🏽‍💻 I’m currently working on E-Parking Solution
 - 🌱 I'm an avid learner, eager to dive into any topic that sparks my curiosity.
 - 🧐 Interested in Software Engineering and architecture, Cloud Native development, InfoSec
 - ⚡ Fun fact: ...
